@@ -60,7 +60,7 @@ a:hover {text-decoration: none; color : #61647E;; color: #8093F1}
 #footer{background-image: url("image/wood.png");background-repeat: no-repeat;background-size: cover;;margin-top: 24px;text-align: right;}
 #footer h1{color : #61647E;margin-bottom: 0px; font-size: 16px}
 
-.copyright {z-index: 3; margin-left : 40px;  float:left;}
+.copyright {z-index: 3; margin-left : 40px;  float:left;font-weight: 150;font-size: 16px }
 
 .social{color : #61647E;font-size: 16px}
 .footnote{color : #61647E;font-size: 16px}
